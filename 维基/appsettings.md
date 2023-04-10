@@ -1,4 +1,3 @@
-#`appsettings.json`说明
 {
   "Serilog": {
     "MinimumLevel": {
